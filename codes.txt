@@ -1,0 +1,16 @@
+breadboard
+wire
+push-button
+chip
+led
+resistor
+capacitor
+potentiometer
+buzzer
+transistor
+microphone
+ldr
+mosfet
+crystal-oscillator
+rotary-encoder
+switch
